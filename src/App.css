@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+div{
+  background-color: #282c34;
+}
+
+h1{
+  color: aqua;
+}
+
+p{
+  font-size: 1.5em;
+  background-color: #c4edff;
+}
